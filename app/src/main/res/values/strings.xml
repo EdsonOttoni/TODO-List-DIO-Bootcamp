@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="text_todo_today">Tarefas</string>
+    <string name="txt_btn_flut">butão flutuante</string>
+    <string name="text_titulo_input">Titulo</string>
+    <string name="text_description_input">Descrição</string>
+    <string name="text_date_input">Data</string>
+    <string name="text_hour_input">Hora</string>
+    <string name="txt_create_task_input">Criar Tarefa</string>
+    <string name="txt_cancel_input">Cancelar</string>
+    <string name="txt_mgs_empty">Ops!Você não possui nenhuma tarefa</string>
+</resources>
